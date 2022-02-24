@@ -1,0 +1,123 @@
+
+.mic{
+    width: 20px;
+    height: 20px;
+    margin-right: 0%;
+}
+
+
+
+Body{
+    margin: 0px;
+    padding: 0px;
+}
+input{
+    background-image: url(micro.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
+ .right{
+    display:flex;
+    justify-content: end;
+    
+   
+    
+}
+.le_nom ,.photo ,.sr ,.btn{
+    margin: 15px;
+
+}
+.btn{
+    border: 0px;
+    width: 90px;
+    background-color: rgb(13, 13, 233);
+    color:white;
+    cursor: pointer;
+
+    border-radius: 5px;
+    
+}
+.main{
+    text-align: center;
+   
+   
+    
+    
+}
+.moi{
+  border-radius: 20px;
+  width: 500px;
+  height: 30px;
+  background-image: url(micro.png);
+  background-size: 15px;
+  background-repeat: no-repeat;
+  background-position: 480px;
+  color: white;
+  
+}
+.but{
+    margin-top: 15px;
+    margin-left: 10px;
+    font-size: 20px;
+    border: 0px;
+    font-size: 15px;
+    }
+    .bat{
+        color: black
+    }
+    
+    a{
+        text-decoration: none;
+    }
+    .le_nom{
+        color: black;
+    }
+
+    .photo{
+        color: black;
+    }
+    footer {
+       
+       
+    }
+    .txt{
+        color: blue;
+        border: 0px;
+    }
+    .lik{
+        margin: 50px;
+    }
+    .general{
+        display:flex;
+         }
+      
+        .niger{
+            border: 1px solid;
+
+        }
+    
+  
+   .droi{
+       display: flex;
+       justify-content: space-between;
+   }     
+   .info  {
+     display: flex;
+    
+   }
+   footer{
+    background-color: blanchedalmond;
+       position: absolute;
+       bottom: 0%;
+       width: 100%;
+   }
+   .gauche{
+       display: flex;
+   }
+    
+ .info div{
+     margin-left: 15px;
+ }   
+    .gauche div{
+        margin-right: 15px;
+    }
